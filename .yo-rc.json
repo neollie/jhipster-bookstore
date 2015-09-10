@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "bookstore",
+    "packageName": "com.neollie.bookstore",
+    "packageFolder": "com/neollie/bookstore",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "bd098fc057d5518ea171f4d2985b256b6474ee2e"
+  }
+}
