@@ -9,11 +9,11 @@ spring:
         active: dev
     datasource:
         dataSourceClassName: org.postgresql.ds.PGSimpleDataSource
-        url: 
+        url:
         databaseName: bookstore
         serverName: localhost
         username: bookstore
-        password: 
+        password: bookstore
 
     jpa:
         database-platform: org.hibernate.dialect.PostgreSQL82Dialect
